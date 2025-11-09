@@ -1,0 +1,12 @@
+# Data folders
+data/raw/
+data/processed/
+data/cleaned/
+
+# System & Python cache
+__pycache__/
+.DS_Store
+
+# Virtual environment
+venv/
+.env/
