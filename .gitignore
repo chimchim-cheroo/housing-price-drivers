@@ -1,16 +1,12 @@
-# Data folders
+# data & outputs
 data/raw/
-data/processed/
-data/cleaned/
-
-# System & Python cache
-__pycache__/
-.DS_Store
-
-# Virtual environment
-venv/
-.env/
-
-# ignore heavy artifacts
 outputs/
-docs/*.pdf
+*.png
+*.csv
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
